@@ -1,0 +1,62 @@
+[
+    {
+        "name": "F1",
+        "Processor Norm": 0.143082,
+        "Memory Norm": 0.292683,
+        "Energy Norm": 0.910761
+    },
+    {
+        "name": "F2",
+        "Processor Norm": 0.177476,
+        "Memory Norm": 0.097561,
+        "Energy Norm": 0.785701
+    },
+    {
+        "name": "F3",
+        "Processor Norm": 0.159267,
+        "Memory Norm": 0.0,
+        "Energy Norm": 0.721537
+    },
+    {
+        "name": "F4",
+        "Processor Norm": 1.0,
+        "Memory Norm": 0.097561,
+        "Energy Norm": 0.769551
+    },
+    {
+        "name": "F5",
+        "Processor Norm": 0.32652,
+        "Memory Norm": 0.609756,
+        "Energy Norm": 0.173038
+    },
+    {
+        "name": "F6",
+        "Processor Norm": 0.660377,
+        "Memory Norm": 0.012195,
+        "Energy Norm": 1.0
+    },
+    {
+        "name": "F7",
+        "Processor Norm": 0.374214,
+        "Memory Norm": 0.707317,
+        "Energy Norm": 0.369879
+    },
+    {
+        "name": "F8",
+        "Processor Norm": 0.563059,
+        "Memory Norm": 1.0,
+        "Energy Norm": 0.0
+    },
+    {
+        "name": "F9",
+        "Processor Norm": 0.0,
+        "Memory Norm": 0.609756,
+        "Energy Norm": 0.319296
+    },
+    {
+        "name": "F10",
+        "Processor Norm": 0.040881,
+        "Memory Norm": 0.609756,
+        "Energy Norm": 0.348984
+    }
+]

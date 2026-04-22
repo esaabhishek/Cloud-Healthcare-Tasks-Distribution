@@ -1,0 +1,128 @@
+{
+    "Processor": [
+        {
+            "name": "F9",
+            "Processor Score": 0.12000000000000002
+        },
+        {
+            "name": "F10",
+            "Processor Score": 0.1261904761904762
+        },
+        {
+            "name": "F1",
+            "Processor Score": 0.14166666666666666
+        },
+        {
+            "name": "F3",
+            "Processor Score": 0.14411764705882352
+        },
+        {
+            "name": "F2",
+            "Processor Score": 0.146875
+        },
+        {
+            "name": "F5",
+            "Processor Score": 0.16944444444444445
+        },
+        {
+            "name": "F7",
+            "Processor Score": 0.17666666666666667
+        },
+        {
+            "name": "F8",
+            "Processor Score": 0.20526315789473684
+        },
+        {
+            "name": "F6",
+            "Processor Score": 0.22
+        },
+        {
+            "name": "F4",
+            "Processor Score": 0.27142857142857146
+        }
+    ],
+    "Memory": [
+        {
+            "name": "F3",
+            "Memory Score": 0.26785714285714285
+        },
+        {
+            "name": "F6",
+            "Memory Score": 0.2767857142857143
+        },
+        {
+            "name": "F2",
+            "Memory Score": 0.3392857142857143
+        },
+        {
+            "name": "F4",
+            "Memory Score": 0.3392857142857143
+        },
+        {
+            "name": "F1",
+            "Memory Score": 0.48214285714285715
+        },
+        {
+            "name": "F5",
+            "Memory Score": 0.7142857142857143
+        },
+        {
+            "name": "F9",
+            "Memory Score": 0.7142857142857143
+        },
+        {
+            "name": "F10",
+            "Memory Score": 0.7142857142857143
+        },
+        {
+            "name": "F7",
+            "Memory Score": 0.7857142857142857
+        },
+        {
+            "name": "F8",
+            "Memory Score": 1.0
+        }
+    ],
+    "Energy": [
+        {
+            "name": "F6",
+            "Energy Score": 34162.72727272727
+        },
+        {
+            "name": "F1",
+            "Energy Score": 36353.882352941175
+        },
+        {
+            "name": "F2",
+            "Energy Score": 39424.595744680846
+        },
+        {
+            "name": "F4",
+            "Energy Score": 39821.15789473684
+        },
+        {
+            "name": "F3",
+            "Energy Score": 41000.08163265306
+        },
+        {
+            "name": "F7",
+            "Energy Score": 49634.64150943396
+        },
+        {
+            "name": "F10",
+            "Energy Score": 50147.698113207545
+        },
+        {
+            "name": "F9",
+            "Energy Score": 50876.666666666664
+        },
+        {
+            "name": "F5",
+            "Energy Score": 54467.86885245902
+        },
+        {
+            "name": "F8",
+            "Energy Score": 58716.61538461538
+        }
+    ]
+}
